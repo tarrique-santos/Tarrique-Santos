@@ -9,6 +9,8 @@
 
 ![Tarrique Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarrique-santos&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarrique-santos&layout=donut)](https://github.com/tarrique-santos/github-readme-stats)
+
 ## Minhas tecnologias!
 
 <div style="display:flex; flex-wrap:wrap;"><br>
