@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Tarrique Santos - Developer</title>
+<desc id="desc">Dark futuristic developer banner with neon green circuitry and a sci-fi interface.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#030807"/><stop offset=".55" stop-color="#06120e"/><stop offset="1" stop-color="#020504"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e676"/><stop offset="1" stop-color="#7cffb2"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#0c5134" stroke-width=".65" opacity=".38"/>
+  </pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="1197" height="337" rx="19" fill="url(#grid)" stroke="#00e676" stroke-width="2"/>
+<path d="M0 62H220L246 88H400M1200 76H1040L1014 102H900M0 286H190L220 256H360M1200 260H1060L1034 286H920" fill="none" stroke="#00e676" stroke-width="2" opacity=".75"/>
+<path d="M32 24H360L388 52H530M1168 30H910L884 56H770" fill="none" stroke="#00e676" stroke-width="3" opacity=".9"/>
+<path d="M34 310H270L294 286H430M1166 310H970L946 286H820" fill="none" stroke="#00e676" stroke-width="3" opacity=".9"/>
+<g fill="#00e676" opacity=".85">
+  <path d="M42 42l26-18h18L60 42z"/><path d="M1110 42l26-18h18l-26 18z"/>
+  <path d="M42 298l26 18h18l-26-18z"/><path d="M1110 298l26 18h18l-26-18z"/>
+  <circle cx="400" cy="88" r="3"/><circle cx="900" cy="102" r="3"/><circle cx="360" cy="256" r="3"/><circle cx="920" cy="286" r="3"/>
+</g>
+<g font-family="monospace" letter-spacing="3">
+  <text x="78" y="48" fill="#b9d8c8" font-size="16">TARRIQUE.DEV</text>
+  <text x="260" y="48" fill="#00e676" font-size="17">//</text>
+  <text x="292" y="48" fill="#8aa99a" font-size="14">PERSONAL SYSTEM v1.0</text>
+  <circle cx="1110" cy="42" r="6" fill="#00e676" filter="url(#softGlow)"/>
+  <text x="1088" y="48" fill="#00e676" font-size="13" text-anchor="end">SYSTEM ONLINE</text>
+</g>
+<g transform="translate(70 105)">
+  <path d="M0 36L55 0H112L145 32L112 64H55L0 36Z" fill="#071b12" stroke="#00e676" stroke-width="2"/>
+  <path d="M22 34L58 12L48 36L84 16L52 54L61 34Z" fill="url(#glow)" filter="url(#softGlow)"/>
+  <text x="72" y="105" fill="#4d8066" font-family="monospace" font-size="10" letter-spacing="2" text-anchor="middle">TS // DEV</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="275" y="153" fill="#e8fff1" font-size="54" font-weight="800" letter-spacing="2">TARRIQUE</text>
+  <text x="615" y="153" fill="#00e676" font-size="54" font-weight="800" letter-spacing="2">SANTOS</text>
+  <text x="278" y="194" fill="#b5d2c2" font-family="monospace" font-size="22" letter-spacing="4">DESENVOLVEDOR  <tspan fill="#00e676">//</tspan>  GAME DEVELOPER</text>
+  <text x="278" y="246" fill="#d4e7dc" font-family="monospace" font-size="18"><tspan fill="#00e676">&gt;</tspan> Transformando ideias em realidade.</text>
+</g>
+<g opacity=".75" fill="none" stroke="#00e676">
+  <circle cx="1035" cy="190" r="95" stroke-width="1.5" opacity=".35"/>
+  <circle cx="1035" cy="190" r="78" stroke-width="1" opacity=".3"/>
+  <path d="M920 190Q1035 92 1150 190Q1035 288 920 190Z" stroke-width="2" opacity=".55"/>
+  <path d="M950 115L1120 265M1120 115L950 265" opacity=".2"/>
+  <path d="M1035 88V292M933 190H1137" opacity=".25"/>
+</g>
+<g fill="#00e676">
+  <circle cx="1035" cy="95" r="2"/><circle cx="1130" cy="190" r="2"/><circle cx="1035" cy="285" r="2"/>
+</g>
+<path d="M275 278H925" stroke="#145b3b" stroke-width="1"/>
+<text x="275" y="305" fill="#6d9d82" font-family="monospace" font-size="12" letter-spacing="3">CODE  /  LEARN  /  CREATE</text>
+<text x="1125" y="305" fill="#00e676" font-family="monospace" font-size="12" text-anchor="end">ALL SYSTEMS OPERATIONAL</text>
+</svg>
